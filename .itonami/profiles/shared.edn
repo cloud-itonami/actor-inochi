@@ -7,6 +7,6 @@
  :profile/id "actor-inochi"
  :profile/default? true
  :bot/name "actor-inochi"
- :bot/brief "etzhayyim/actor-inochi の常駐 actor。charter に従って行動する。"
- :bot/context-refs [{:kind "repo" :target "etzhayyim/actor-inochi"}]
+ :bot/brief "cloud-itonami/actor-inochi の常駐 actor。charter に従って行動する。"
+ :bot/context-refs [{:kind "repo" :target "cloud-itonami/actor-inochi"}]
  :bot/tools-requested []}
